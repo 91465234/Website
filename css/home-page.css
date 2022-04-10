@@ -1,0 +1,81 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+.nav-custom{
+    background-color: #797842;
+    color: #fff;
+}
+.custom-font-color{
+    color: #fff;
+}
+.custom-font-color:hover {
+    color: #fff;
+}
+.custom-jumbotron {
+    background-image: url('../images/image-1-tint.jpg');
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+}
+.btn-custom{
+    background-color: #797842;
+    border: none;
+    color: #fff;
+}
+.btn-custom:hover{
+    background-color: #797842;
+    color: #fff;
+}
+.custom-padding {
+    padding-bottom: 20px;
+}
+.about-solid {
+    background-color: #797842;
+    color: #fff;
+    height: 600px;
+    padding: 230px 0 0 40px;
+}
+#right-1 {
+    height: 600px;
+    background-image: url('../images/image-4-tint.jpg');
+    background-position: center;
+    background-size: cover;
+}
+#left-1 {
+    height: 600px;
+    background-image: url('../images/image-5-tint.jpg');
+    background-position: center;
+    background-size: cover; 
+}
+
+#right-2 {
+    height: 600px;
+    background-image: url('../images/image-3-tint.jpg');
+    background-position: center;
+    background-size: cover;
+}
+#left-2 {
+    height: 600px;
+    background-image: url('../images/image-7-tint.jpg');
+    background-position: center;
+    background-size: cover; 
+}
+#spacing {
+    margin-top: 50px;
+}
+.custom-footer {
+    margin-top: 30px;
+    height: 50px;
+    background-color: #333;
+    color: #fff;
+}
+#contact-img {
+    background-image: url('../images/image-1-tint.jpg');
+    background-position: center;
+    background-size: cover;
+    padding: 30px 60px;
+    margin-top: 30px;
+    color: #fff;
+}
+/* font-family: 'Oswald', sans-serif;
+font-family: 'Special Elite', cursive;*/
